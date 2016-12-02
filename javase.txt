@@ -1,0 +1,417 @@
+JavaSE 
+	1) 能够掌握DOS系统常用基本命令；
+	2) 熟练使用eclipse编写java代码；
+	3) 掌握常用数据结构和算法；
+	4) 掌握常用的编程设计模式；
+	5) 熟练使用java语言的常用对象；
+	6) 使用java编写单机应用程序；
+	7) 掌握面向对象编程思想，为以后深入学习JavaEE就业课程打下坚实的基础。
+	
+	Java基础:安装和配置
+	A:	注释  关键字  标识符  常量/变量  数据类型  
+		运算符 ：算术运算符、赋值运算符、比较运算符、逻辑运算符、位运算符、三目运算符。
+		流程控制语句:顺序结构、选择结构、循环结构   
+		方法   
+		数组:数组的定义格式、静态初始化、动态初始化，并能够理解Java中数组的内存图解。熟练掌握数组的遍历、获取最值、数组元素逆序、数组元素查找、数组排序和二分查找，以及二维数组的定义格式及初始化。
+		访问权限修饰符:private(私有) , protectd(仅子类访问) ,public(公开访问权限)
+		基本类型:byte，short,int long  ; double ,float ,boolean   true  false  class  interface arrays
+		保留关键字:goto 
+		异常机制关键词: throws  throw try catch finally
+		abstract void main static string 
+		
+		AscII码表  进制转换
+		流程控制:if: if(){}else{} ;  if (){}else if(){}else{}
+				 for(int i ;i < list.length;i++){system.out.printly(list[i]);}
+				 switch(){case1:  case2:}
+				 三元判断: 
+				 while(){}
+
+	B:	面向对象:抽象:谁拥有数据谁就是对象.万物皆对象(数据,抽象封装)
+		封装
+		类与对象
+		成员变量和局部变量
+		匿名对象
+		this关键字
+		构造方法
+		继承
+		多态
+		抽象类
+		接口
+		内部类
+		命名规范:
+	 
+
+	C. 常用类库
+		Object,Scanner,String,StringBuffer,StringBuilder,Arrays,基本包装类,正则表达式,
+		Math,Random,System,Date,DateFormate,Calender.
+		
+		java.util  	java.lang
+
+	D	集合	
+		接口:  Collection Iterator、List、ListIterator,Set、Map接口
+		类:    ArrayList、Vector、LinkedList、泛型、HashSet、、HashMap、 LinkedHashMap。
+		List:ArrayList; LinkedList 	
+		Set:HashSet,TreeSet 	
+		Map:HashMap-LinkedHashMap ,TreeMap 	Iterator
+		增强for循环map entry
+	
+	E	IO     	
+			异常:
+				Error
+				Exception: throws throw    try{}catch(){}finally{}
+			File     
+			InputStream 		OutputStream		
+			Reader				Writer
+			字节缓存流,转换流,内存操作流,打印流,标准输入输出流,序列化流,properties集合.
+			复制文本
+		
+	F 	并发多线程
+		java程序的运行原理，
+		多线程的实现方案，
+		获取和设置线程名称、
+		线程的生命周期、
+		线程安全问题
+		线程同步、Lock锁、死锁问题、
+		线程间通信、线程的状态及状态转换、
+		线程池。
+	
+	G	网络编程
+		网络编程的三要素:Socket原理机制、UDP传输、TCP传输等。
+	
+	H 	设计模式
+		设计模式的分类:创建型,结构型
+		熟练掌握单例设计模式(懒汉式、饿汉式)。
+	I.	反射
+		动态代理
+	
+	
+	
+JavaEE
+	1）运用常用的网页开发技术设计网页；
+	2）掌握WEB系统交互原理；
+	3）掌握JavaWeb开发核心技术；
+	4）运用JavaWeb核心技术完成简单功能实现；
+	5）掌握JavaWeb高级技术，创建更好的Web应用程序；
+	6）具备B/S结构软件开发能力；
+	
+		前端技术
+		HTML
+		了解HTML语言，HTML语言背景知识，
+		掌握HTML的整体结构、
+		文件标签、排版标签、块标签、字体标签、列表标签、图形标签、超链接标签、表格标签、
+		表单标签(form标签、input标签、select标签等)、分区标签、头标签。
+		HTML5
+
+		CSS
+		CSS介绍、CSS导入方式(内部样式表、内联样式表、外部样式表)、
+		五大CSS选择器(ID选择器、类选择器、元素选择器、属性选择器、伪类等)、
+		样式属性介绍。
+		CSS3
+		
+		JavaScript
+		JavaScript编程，
+		JavaScript语法、数据类型、运算符、表达式、流程控制，
+		JavaScript内部对象、数组、字符串、日期时 间、数学函数、正则表达式，
+		JavaScript函数、自定义函数、全局函数，
+		BOM介绍、
+			window对象、
+			location对象、
+			history对象使用。 
+			DHTML编程，
+		DOM树，
+		DOM对象，
+		常用DOM对象的属性、方法 和事件，编写事件处理程序、
+		使用DOM操作HTML文档、遍历文档树上的节点、
+		搜索文档中特定的元素、修改文档内容、往文档添加新内容、
+		使用DOM操作 XML文档。
+
+		JQuery
+		认识JQuery、
+		选择器介绍、css选择器、jQuery选择器及其优势势、基本选择器、层次选择器、过滤选择器、表单选择器、选择器练习小案例等;
+		JQuery操作DOM：DOM分类、查找元素/属性节点、创造元素/属性/文本节点、
+		插入节点、删除节点、复制节点、替换节点、包裹节点、属性操 作、样式操作、遍历节点、CSS-DOM操作;
+		动画和事件：
+		jQuery中的事件、加载DOM、事件绑定、合成事件、事件冒泡、事件对象的属性、移除按钮上注册的事件、模拟操作、
+		JQuery中的动画。
+		JQuery Ajax
+		
+		BootStrap
+		响应式页面的的开发与设计，强大的栅格布局，内置的CSS类库，
+		JS插件，快速布局商城页面。
+		
+		Mysql及JDBC开发
+		Mysql数据库
+		数据库使用、mysql的安装与卸载、mysql账号管理，SQL语句介绍、数据库增删改操作DDL语句使用、表增删改操作DML语句使用、表查询操作DQL语句使用、以及查询语句条件、排序、聚合、分组操作。
+		
+		JDBC开发
+		JDBC介绍、驱动的原理及使用、JDBC核心使用、DriverManager、Connection、Statement、ResultSet详细使用，JDBC的CURD操作、防止SQL注入及PrepareStatement使用、大数据处理、批处理。
+		
+		DUtils开发
+		连接池介绍、DBCP连接池使用。DBUtils介绍、DbUtils类的使用、QueryRunner类的使用、ResultSetHandler详解。
+		
+JavaWeb开发核心内容
+		XML
+		XML的概念与基本作用、XML的基本语法、XML的约束模式、DTD、Schema、名称空间。XML解析介绍、DOM4J 解析XML、XPath的使用。
+		
+		HTTP及Tomcat
+		WEB服务器的工作原理、
+		Tomcat的安装与启动运行、Tomcat的体系结构、在Tomcat中配置WEB虚拟目录与发布WEB应用程序的方式、
+		设置目录的默认网页、使用Tomcat配置虚拟主机、WAR文件生成与使用。
+		HTTP协议详解。
+		
+		Servlet
+		Servlet简介、
+		Servlet生命周期、
+		servlet配置详解、
+		访问servlet路径分析、
+		ServletConfig使用及servlet初始化参数的使用，
+		ServletContext使用、
+		系统初始化参数、
+		web资源获取。
+
+		request与response
+		HttpServletResponse和HttpServletRequest的应用、
+		HTTP协议在web开发中应用、
+		请求转发与重定向使用。
+		
+		Cookie与Session
+		Cookie及Cookie的应用，Cookie实现商品浏览历史记录、Cookie实现记住用户名和密码,
+		Session及Session域的应用，Session跟踪机制，
+		利用Session防止表单重复提交，MD5算法及其应用，
+		Session的持久化。
+		最后结合之前所学知识完成一次性验证码 和购物车小案例。
+
+		
+		JSP技术
+		JSP运行原理、
+		JSP中的9个内部对象和作用、
+		JSP表达式、
+		JSP脚本片段、
+		JSP声明、JSP注释,
+		EL表达式简介，EL获得数据、EL执行 运算、EL内置对象、EL函数，
+		page指令及其重要的属性，
+		在web.xml文件中设置全局错误处理。
+		JSP中的include指令及其典型应用。 
+		pageContext对象的详细讲解。
+		JSP动作标签介绍。
+		JSTL标准标签库的介绍及使用。
+		JSP模式介绍、
+		MVC模式介绍、
+		JavaBean介绍、 
+		BeanUtils使用。
+		
+		JDBC高级
+		JDBC的事务，转账案例的实现。
+		JDBC的CRUD及分页，条件查询。
+
+		AJAX开发
+		AJAX介绍、XMLHttpRequest对象详解、
+		JQuery的AJAX、
+		JSON介绍、
+		JSONLIB插件的使用。
+
+		JavaWeb高级开发技术
+		Servlet Listenert监听器介绍及使用、
+		Servlet Filter过滤器介绍、
+		过滤器生命周期、
+		过滤器链分析、
+		FilterConfig介绍。
+		邮件发送，
+		自动登录功能的实现。
+
+基础加强
+	注解介绍、自定义注解介绍、元注解使用、代理介绍、动态代理Proxy使用、类加载介绍。
+
+Linux
+	虚拟机安装及使用，
+	CentOS的安装，
+	Linux的常用命令，组、权限命令，
+	在Linux上安装JDK，Tomcat，MySQL。
+
+Redis
+	Redis是时下非常流行的NoSQL数据库，使用Redis可以实现高性能的缓存方案，
+	知识点包括：
+	NOSQL介绍、什么是redis、 redis安装配置、
+	redis数据类型及操作(String、Hashs、Lists、Sets、Sorted Sets)、
+	Jedis使用、发布订阅、持久化、主从复制。
+		
+	常用框架一SSH
+	1）使用SSH框架开发出结构清晰、可复用性好、维护方便的Web应用程序；
+	2）使用Maven管理项目工程；
+	3）Oracle数据库的相关技术；
+	4）系统开发中的性能、可扩展性及维护性的提升；
+	6）Apache poi实现数据导入导出；
+	7）图形报表的生成技术，如,Echarts,JfreeChart、HighChart、AmChart；
+	8）Jquery Easy UI框架；
+	9）Apache Shiro技术；
+	10）BRAC认证模型，有效进行用户权限管理；
+	11）JavaEE企业应用开发。
+	
+Hibernate框架
+	ORM思想，
+	hibernate介绍，
+	hibernate.cfg.xml配置，
+	hbm.xml映射文件详解，
+	主键生成策略使用，
+	PO对象状态及状态的转换分析、
+	一级缓存，
+	Hibernate数据检索技术，
+	Hibernate高级映射技术，
+	Hibernate多表联合查询， 
+	Hibernate分页技术，
+	Hibernate性能优化技术。
+
+Struts2框架
+	Struts2框架介绍、
+	工作原理与架构分析、
+	6大配置文件分析、
+	struts.xml详解及使用，
+	使用通配符定义 action、
+	动态方法调用，ActionContext及ServletActionContext使用，
+	模型驱动ModelDriven、属性驱动，
+	Struts2文件上传，默认拦截器分析、
+	自定义拦截器、
+	OGNL表达式、
+	值栈ValueStack分析及操作、
+	Struts2标签。
+
+Spring框架
+	Spring框架介绍，
+	IoC思想、
+	DI依赖注入、
+	Bean的实例方式、
+	Bean种类、
+	Bean作用域范围、
+	依赖注入、
+	p命名空间、
+	SpEL spring表达式、
+	注解装配Bean、
+	整合Junit测试、
+	web开发集成Spring、
+	AOP思想、
+	使用AspectJ切面编程、 
+	JdbcTemplate模板使用、
+	C3P0数据源配置、
+	DBCP数据源配置、
+	声明式事务管理、
+	SSH整合。
+	
+	CRM项目 
+	使用struts2+spring4+hibernate5 +svn来开发项目，SSH 三大框架的使用。
+	分析、设计、编码、测试、部署等软件开发流程。使用Jquery EasyUI进行布局并使用。
+
+Oracle数据库
+	Oracle介绍、
+	Oracle10g的安装、
+	PLSQL Developer的安装、
+	orcale的基本概念介绍、
+	命令行常用操作、
+	Scott用户下的表结构介绍、
+	sql简介、
+	简单查询、
+	限定查询、
+	对结果集排 序、单行函数、
+	多表查询、子查询、
+	数据库变更、
+	事务处理、
+	表的管理、
+	约束、
+	rownum、
+	视图、
+	序列、
+	索引、
+	pl/sql、
+	存储过程、
+	存储函数、
+	触发器以及
+	游标的讲解。
+
+Maven
+	Maven是什么、
+	为什么使用Maven、
+	什么是一次构建、
+	什么是依赖管理、
+	依赖管理的好处、
+	Maven如何安装配置、
+	使用 Maven核心概念介绍( 坐标、依赖、仓库、插件、生命周期等)、
+	Maven与第三方Elicpse整合及如何在Eclipse中使用Maven、
+	什么是私服、
+	Maven为什么使 用私服、
+	Maven私服Nexus的安装使用、
+	如何使用Maven构建Web应用、
+	使用Maven构建SSH应用、
+	使用Maven进行测试、
+	什么是持续集成等。
+
+
+
+	常用框架-SSM
+	1)使用SSM框架进行功能开发；
+	2)Lucene\Solr全文检索解决方案；
+	3)非关系型数据库Redis；
+	4)富文本编辑器KindEditor；
+	5)Freemarker模板引擎；
+	6)Nginx反向代理；
+	7)dubbo分布式调用技术；
+	8)zookeeper分布式应用协调服务；
+	9)互联网电商。
+
+
+MyBatis框架
+	Mybatis介绍、单独使用jdbc编程问题总结、
+	Mybatis架构、
+	Mybatis入门程序、
+	Mybatis开发Dao、 
+	SqlMapConfig.xml配置、
+	ParameterType输入映射、
+	ResultType及ResultMap输出映射、
+	动态sql、
+	商品订单 数据模型、关联查询(一对一、一对多)、
+	Mybatis与spring整合、
+	Mybatis逆向工程。
+
+Spring MVC框架
+	Spring web mvc介绍、
+	Web MVC应用、
+	Spring web mvc架构、
+	springmvc入门程序、
+	非注解处理器映射器和适配器、
+	注解开发处理器映射器和适配器、
+	springmvc整合Mybatis、 
+	RequestMapping、
+	Controller方法返回值、
+	参数绑定(简单类型、pojo、包装类型、数组、集合类型等)、
+	springmvc与 struts2区别、
+	springmvc上传图片、
+	json数据交互、
+	Validation、
+	异常处理器、
+	RESTful支持、
+	拦截器。
+	
+Lucene/Solr
+	Lucene的知识点包括：
+	什么是全文检索、
+	Lucene实现全文检索分析、
+	Lucene实现全文检索程序实现、
+	Analyzer分析器、
+	索引维护、
+	Query和QueryParser。
+	Solr的知识点包括：
+	企业站内搜索技术选型、
+	什么是solr、
+	solr安装配置、
+	solr索引、
+	solr搜索、
+	SolrJ、
+	电商网站商品搜索。
+
+
+
+Window DOS命令 ipconfig   cd dir cd..  cd /
+Linux 	ifconfig    cd  ls cd ..   cd /  cat  top  
+工欲善其事,必先利其器
+elipse 配置jdk 和tomcat   代码快捷键
+debugger  chrome
+数据结构 : 数组,链表,树,队列,图
+算法 :排序
