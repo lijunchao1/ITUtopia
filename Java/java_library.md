@@ -37,7 +37,7 @@
   [百度云](https://pan.baidu.com/s/15MgPes9CUpWwweyzhBs1TA) 密码：9nyj
 
 
-#### 代码优化:
+#### 代码优化
 1.《重构-改善既有代码的设计》
   [百度云](https://pan.baidu.com/s/1bo05dW7) 密码：gbrq
   
