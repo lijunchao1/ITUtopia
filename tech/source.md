@@ -43,7 +43,7 @@
 
 ### 二. 国外技术论坛
 
-1.[Square](https://square.github.io/)
+1.[aws](https://aws.amazon.com/cn/developer/)
 
 2.[IBM](https://www.ibm.com/developerworks/cn/)
 
@@ -56,6 +56,8 @@
 6.[GitHubbengineering](https://githubengineering.com/)
 
 7.[infoQ](https://www.infoq.cn)
+
+8.[Square](https://square.github.io/)
 
 
 
