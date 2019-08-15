@@ -24,11 +24,25 @@
 
 6. [百度用户体验中心](http://ued.baidu.com/)
 
-#### C.Web前端
+#### C . Web前端
 1. [AlloyTeam | 腾讯全端 AlloyTeam团队](http://www.alloyteam.com)
 
 
+#### D . 技术论坛
+1. [安全牛](https://www.aqniu.com)
+2. [开源中国](https://www.oschina.net/)
+3. [51cto](http://www.51cto.com/)
+
+
+
+#### E . 面试神器
+1. [牛客网](http://m.nowcoder.com/)
+2. [LeetCode](https://leetcode-cn.com/problemset/database/)
+
+
+
 ### 二. 国外技术论坛
+
 1.[Square](https://square.github.io/)
 
 2.[IBM](https://www.ibm.com/developerworks/cn/)
@@ -40,6 +54,10 @@
 5.[OpenDNS Engineering](https://umbrella.cisco.com/blog)
 
 6.[GitHubbengineering](https://githubengineering.com/)
+
+7.[infoQ](https://www.infoq.cn)
+
+
 
 ### 征集
 欢迎大家推荐优秀团队技术博客.推荐请添加微信:AIlijunchao123
