@@ -1,6 +1,11 @@
 #### 后台开发在线文档
 
 
+#### 通用类
+
+1. [DOClever移动时代首选接口管理平台](http://doclever.cn/controller/index/index.html)
+
+
 #### Java开源框架文档
 
 1. [JDK7在线文档](http://tool.oschina.net/apidocs/apidoc?api=jdk_7u4)
