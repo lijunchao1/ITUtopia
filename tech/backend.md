@@ -33,12 +33,40 @@
 
 8. [Bootstrap在线文档](https://www.bootcss.com/)
 
-9. [Git官网中文文档](https://git-scm.com/book/zh/v2)
+9. [Thymeleaf英文文档](https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html)
 
-10. [Thymeleaf英文文档](https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html)
+10. [Git官网中文文档](https://git-scm.com/book/zh/v2)
+
+11. [GitLab Docs](https://docs.gitlab.com)
 
 
 #### Go语言框架
 
 1. [beego](https://beego.me/)
 
+
+#### Php语言框架
+
+1. [Lavarel](https://laravel.com/)
+
+2. [phalcon](https://phalconphp.com/en/)
+
+3. [Symfony](https://symfony.com/)
+
+4. [ThinkPHP](http://www.thinkphp.cn/)
+
+5. [Yii](https://www.yiiframework.com/)
+
+
+
+### Python语言框架
+
+1. [django](https://www.djangoproject.com/)
+
+2. [pylons](https://pylonsproject.org/)
+
+3. [tornado](http://www.tornadoweb.org/en/stable/)
+
+4. [bottle](http://www.bottlepy.org/docs/dev/)
+
+5. [Quixote](http://quixote.ca/)
