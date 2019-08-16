@@ -15,29 +15,43 @@
 
 ### 微信社群
 
-#### 产品组:
+#### 产品组
   
 #### 大前端组
-Web前端: 
-UI设计:
+
+UI设计
+
+Web前端
+
+Android
+
+IOS
 
 #### 编程语言组
-Java:
-Python：
-Linux：  
-PHP：  
-Go:
-Android:
-IOS:
 
-#### 数据库：
-  Mysql
-  Oracle
+Java
 
-#### 应用组:
-大数据开发：  
+Python
+
+PHP
+
+Go
 
 
+#### 数据库
+
+Mysql
+
+Oracle
+
+#### 应用组
+
+大数据开发
+
+
+#### 操作系统
+
+Linux
 
 ### 投稿
 
